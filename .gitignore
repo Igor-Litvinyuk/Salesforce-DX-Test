@@ -1,6 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 /IlluminatedCloud/
 /.idea/
-.gitignore
-force-app/main/default/aura/
 /.sfdx/
